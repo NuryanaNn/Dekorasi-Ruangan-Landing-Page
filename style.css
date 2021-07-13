@@ -1,0 +1,123 @@
+.jumbotron{
+    text-align: center;
+}
+.jumbotron img{
+    margin-top: 20px;
+    width: 250px;
+    height: 250px;
+}
+.bagian2{
+    text-align: center;
+}
+.bagian2 img{
+    width: 250px;
+    height: 250px;
+}
+.produk{
+    margin-top: 60px;
+}
+.set{
+    margin-top: 90px;
+    background-color: wheat;
+    height: 500px;
+    padding-top: 40px;
+    text-align: center;
+}
+.set img{
+    width: 250px;
+    height: 250px;
+}
+.ide{
+    text-align: center;
+    margin-top: 300px;
+}
+.panjang img{
+    width: 250px;
+    height: 250px;
+}
+.panjang2 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+/* Desktop Version */
+@media(min-width:992px){
+    .jumbotron{
+        text-align: left;
+    }
+    .jumbotron img{
+        margin-top: 20px;
+        width: 400px;
+        height: 400px;
+    }
+    .banner{
+        width: 300px;
+        height: 300px;
+    }
+    .bagian2{
+        text-align: left;
+    }
+    .bagian2 img{
+        width: 500px;
+        height: 400px;
+    }
+    .set{
+        margin-top: 90px;
+        background-color: wheat;
+        height: 500px;
+        padding-top: 60px;
+        text-align: left;
+    }
+    .set img{
+        width: 00px;
+        height: 400px;
+    }
+    .ide{
+        text-align: center;
+        margin-top: 40px;
+    }
+    .panjang img{
+        width: 800px;
+        height: 300px;
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+    .panjang2 img{
+        width: 450px;
+        height: 300px;
+    }
+    .panjang3 img{
+        margin-left: -50px;
+    }
+    .teks{
+        margin-left: -70px;
+        text-align: justify;
+    }
+    .tinggi img{
+        height: 400px;
+    }
+    .kolom2 img{
+        height: 800px;
+        width: 400px;
+    }
+
+    .baris1 img{
+        margin-top: -400px;
+    }
+
+    .baris3 img{
+        margin-top: -400px;
+    }
+
+    .footer{
+        background-color: wheat;
+        height:400px;
+    }
+}
